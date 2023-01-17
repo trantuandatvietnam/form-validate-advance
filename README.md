@@ -1,0 +1,1 @@
+- Khi sử dụng một số trình duyệt cũ thì có những method không được hỗ trợ => Cần sử dụng polyfill để tự viết method đó
